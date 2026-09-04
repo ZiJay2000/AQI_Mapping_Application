@@ -1,4 +1,4 @@
-# Seasonal AQI Mapping Application (2024)
+# Seasonal AQI Mapping Application
 
 An interactive desktop application for visualizing and analyzing seasonal air quality data across **Lahore, Pakistan** for the year 2024. The app combines satellite-derived pollutant data from Google Earth Engine with local geospatial layers stored in a PostGIS database, presented through a clean PyQt5 desktop interface.
 
