@@ -75,7 +75,7 @@ The application lets users explore four key air pollutants across the four seaso
 
 Run the application:
 ```bash
-python aqi_app.py
+python AQIapplication.py
 ```
 
 Then:
@@ -97,7 +97,3 @@ This was a group project for the *Advanced Geodatabase & Programming* course at 
 - Sadia Saleem
 - Kashf Ali
 - Muhammad Yaqoob
-
-## License
-
-This project was developed for academic purposes. Feel free to reference it for learning.
