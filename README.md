@@ -43,8 +43,8 @@ The application lets users explore four key air pollutants across the four seaso
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/aqi-mapping-application.git
-   cd aqi-mapping-application
+   git clone https://github.com/YOUR-USERNAME/AQI-Mapping-Application.git
+   cd AQI-Mapping-Application
    ```
 
 2. **Install dependencies**
